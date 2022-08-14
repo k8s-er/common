@@ -16,6 +16,8 @@ export const errorHandler = (err: Error, req: Request, res: Response) => {
     });
   }
 
+  console.error(err);
+
   res.status(400).send({
     errors: [
       {
