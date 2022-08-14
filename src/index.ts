@@ -1,4 +1,4 @@
-/* Import all the to-be-exported files */
+/* Import all the to-be-exported files, */
 export * from './errors/badRequestError';
 export * from './errors/customError';
 export * from './errors/databaseConnectionError';
