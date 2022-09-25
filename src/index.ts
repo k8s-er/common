@@ -7,6 +7,8 @@ export * from './errors/notFoundError';
 export * from './errors/requestValidationError';
 export * from './events/baseListener';
 export * from './events/basePublisher';
+export * from './events/orderCancelledEvent';
+export * from './events/orderCreatedEvent';
 export * from './events/subjects';
 export * from './events/ticketCreatedEvent';
 export * from './events/ticketUpdatedEvent';
