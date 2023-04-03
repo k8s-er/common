@@ -1,6 +1,6 @@
 {
   "name": "@hrdev/common",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Common codes used in ticketing app",
   "main": "build/index.js",
   "types": "build/index.d.ts",
