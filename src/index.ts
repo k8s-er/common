@@ -10,6 +10,7 @@ export * from './events/basePublisher';
 export * from './events/expirationCompleteEvent';
 export * from './events/orderCancelledEvent';
 export * from './events/orderCreatedEvent';
+export * from './events/paymentCreatedEvent';
 export * from './events/subjects';
 export * from './events/ticketCreatedEvent';
 export * from './events/ticketUpdatedEvent';
